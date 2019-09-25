@@ -1,2 +1,2 @@
 # R-JSON-Fetch-Script
-"Stop trying to make fetch happen, its not going to happen"
+![Stop Trying to Make Fetch Happen](https://media.giphy.com/media/5G98t8QjqBLK8/giphy.gif)
